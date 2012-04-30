@@ -1,0 +1,12 @@
+{
+    "renderer": "TT",
+    "header": [
+        { "Subject": "Hi!" }
+    ],
+    "alternatives": [
+        {
+            "type": "text/html",
+            "path": "index.html"
+        }
+    ]
+}
